@@ -49,3 +49,4 @@ ghibli-ს სტუდიოს თითოეული ფილმის ს
 #
 # c.executemany('INSERT INTO ghibli (title,director,producer,release_date) VALUES (?,?,?,?)',movie_rows)
 # conn.commit()
+# conn.close()
